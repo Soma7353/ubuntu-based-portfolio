@@ -43,11 +43,6 @@ _NOTE: if you have yarn just replace `npm start` and `npm run build` with `yarn 
    - Run `npm run dev` or `yarn dev` again
    - The contact form should now work!
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=vivek9patel/vivek9patel.github.io&type=Date)](https://star-history.com/#vivek9patel/vivek9patel.github.io&Date)
-
-## This project was made using Create Next App! Here is the scripts that u can run.
 
 ### `npm start`
 
